@@ -1,0 +1,5 @@
+﻿2021-05-18 03:11:07, Error      [0x064183] IBSLIB OSRollbackService::CCheckpoint::MoveOrCopyDirectory: ObliterateOrMoveDirectoryTree(C:\$WINDOWS.~BT\Sources\Panther) failed.[gle=0x00000005]
+2021-05-18 03:12:23, Error                 SP     Failed to merge telemetry file: . hr = 0X80070057
+2021-05-18 03:12:23, Error                 SP     Failed to merge telemetry file: C:\$WINDOWS.~BT\Sources\Panther\WinRETel.etl.001. hr = 0X80070057
+2021-05-18 05:12:58, Error                 MOUPG  CSetupHost::ExecuteDiagnosticAnalysis(1567): Result = 0x80131502
+2021-05-18 05:13:21, Error                 SP     Failed to merge telemetry file: . hr = 0X80070057
